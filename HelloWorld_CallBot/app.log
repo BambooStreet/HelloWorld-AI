@@ -1,0 +1,645 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://10.50.1.191:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:19:42] "POST /voice HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:22:50] "POST /voice HTTP/1.1" 200 -
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:23:05] "[35m[1mPOST /process_speech HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://10.50.1.191:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:26:16] "POST /voice HTTP/1.1" 200 -
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:openai._base_client:Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': "\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚ¸¦ »ó´ãÇÏ´Â Ãªº¿ÀÔ´Ï´Ù. ´ÙÀ½ ÁöÄ§¿¡ µû¶óÁÖ¼¼¿ä.\n    \n    ½¬¿î ´Ü¾î¿Í °£´ÜÇÑ ¹®Àå ±¸Á¶¸¦ »ç¿ëÇÏ¼¼¿ä.\n    º¹ÀâÇÑ ¹ý·ü ¿ë¾î³ª ÇàÁ¤ ¿ë¾î´Â Ç®¾î¼­ ¼³¸íÇØÁÖ¼¼¿ä.\n    ÁÖ¿ä Á¤º¸´Â À¯ÁöÇÏµÇ, ºÒÇÊ¿äÇÑ ¼¼ºÎ»çÇ×Àº »ý·«ÇÏ¼¼¿ä.\n    ½Ã°£ ¼ø¼­´ë·Î »ç°ÇÀ» Á¤¸®ÇÏ¿© ÀÌÇØÇÏ±â ½±°Ô ÇØÁÖ¼¼¿ä.\n    ³¯Â¥´Â Ç¥½ÃÇÏÁö ¸»¾ÆÁÖ¼¼¿ä.\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚµéÀÌ ºñ½ÁÇÑ »óÈ²¿¡ Ã³ÇßÀ» ¶§ Âü°íÇÒ ¼ö ÀÖµµ·Ï À¯¿ëÇÑ Á¤º¸¸¦ Á¦°øÇØÁÖ¼¼¿ä.\n\n    ´ëÈ­ ±â·Ï:\n    [{'role': 'user', 'content': '»çÀå´ÔÀÌ µ·À» ¾È Áà¿ä.'}]\n\n    AI:\n    ", 'role': 'user'}], 'model': 'gpt-3.5-turbo-0125', 'logprobs': False, 'max_tokens': 2048, 'n': 1, 'stream': False, 'temperature': 0.0}}
+DEBUG:openai._base_client:Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+DEBUG:httpcore.connection:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+DEBUG:httpcore.connection:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000021FE6D4D940>
+DEBUG:httpcore.connection:start_tls.started ssl_context=<ssl.SSLContext object at 0x0000021FE6C60E40> server_hostname='api.openai.com' timeout=None
+DEBUG:httpcore.connection:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000021FE6D4D910>
+DEBUG:httpcore.http11:send_request_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_headers.complete
+DEBUG:httpcore.http11:send_request_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_body.complete
+DEBUG:httpcore.http11:receive_response_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 01 Aug 2024 15:26:36 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-mz1a8rvtmpafscx1uxmuflg6'), (b'openai-processing-ms', b'2245'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=15552000; includeSubDomains; preload'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'10000000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'9997782'), (b'x-ratelimit-reset-requests', b'6ms'), (b'x-ratelimit-reset-tokens', b'13ms'), (b'x-request-id', b'req_dfdbbc75fa1b87953646cc7dc901de3c'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=ZGhBCxrfHtE7vs5uEUK5w8yOn7BUCgur0lsFilDfBZY-1722525996-1.0.1.1-nAkb5ucuhTdZj22zFyuXTaaALAn2z46G7GR43sykk4c4Hxhym39tA8SaR1REZKhUNs.yA3UxV10SOyPVUr0FFA; path=/; expires=Thu, 01-Aug-24 15:56:36 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=kvoG.hdf3c9.lEFztZ5DyIm6THqfckHkyTV3SpQUXw0-1722525996778-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8ac6d8e79ee430af-ICN'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+DEBUG:httpcore.http11:receive_response_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_body.complete
+DEBUG:httpcore.http11:response_closed.started
+DEBUG:httpcore.http11:response_closed.complete
+DEBUG:openai._base_client:HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 01 Aug 2024 15:26:36 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-mz1a8rvtmpafscx1uxmuflg6'), ('openai-processing-ms', '2245'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=15552000; includeSubDomains; preload'), ('x-ratelimit-limit-requests', '10000'), ('x-ratelimit-limit-tokens', '10000000'), ('x-ratelimit-remaining-requests', '9999'), ('x-ratelimit-remaining-tokens', '9997782'), ('x-ratelimit-reset-requests', '6ms'), ('x-ratelimit-reset-tokens', '13ms'), ('x-request-id', 'req_dfdbbc75fa1b87953646cc7dc901de3c'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=ZGhBCxrfHtE7vs5uEUK5w8yOn7BUCgur0lsFilDfBZY-1722525996-1.0.1.1-nAkb5ucuhTdZj22zFyuXTaaALAn2z46G7GR43sykk4c4Hxhym39tA8SaR1REZKhUNs.yA3UxV10SOyPVUr0FFA; path=/; expires=Thu, 01-Aug-24 15:56:36 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=kvoG.hdf3c9.lEFztZ5DyIm6THqfckHkyTV3SpQUXw0-1722525996778-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '8ac6d8e79ee430af-ICN'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+DEBUG:openai._base_client:request_id: req_dfdbbc75fa1b87953646cc7dc901de3c
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:26:36] "POST /process_speech HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+DEBUG:httpcore.connection:close.started
+DEBUG:httpcore.connection:close.complete
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://10.50.1.191:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:33:49] "POST /voice HTTP/1.1" 200 -
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:openai._base_client:Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': "\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚ¸¦ »ó´ãÇÏ´Â Ãªº¿ÀÔ´Ï´Ù. ´ÙÀ½ ÁöÄ§¿¡ µû¶óÁÖ¼¼¿ä.\n\n    ½¬¿î ´Ü¾î¿Í °£´ÜÇÑ ¹®Àå ±¸Á¶¸¦ »ç¿ëÇÏ¼¼¿ä.\n    º¹ÀâÇÑ ¹ý·ü ¿ë¾î³ª ÇàÁ¤ ¿ë¾î´Â Ç®¾î¼­ ¼³¸íÇØÁÖ¼¼¿ä.\n    ÁÖ¿ä Á¤º¸´Â À¯ÁöÇÏµÇ, ºÒÇÊ¿äÇÑ ¼¼ºÎ»çÇ×Àº »ý·«ÇÏ¼¼¿ä.\n    ½Ã°£ ¼ø¼­´ë·Î »ç°ÇÀ» Á¤¸®ÇÏ¿© ÀÌÇØÇÏ±â ½±°Ô ÇØÁÖ¼¼¿ä.\n    ³¯Â¥´Â Ç¥½ÃÇÏÁö ¸»¾ÆÁÖ¼¼¿ä.\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚµéÀÌ ºñ½ÁÇÑ »óÈ²¿¡ Ã³ÇßÀ» ¶§ Âü°íÇÒ ¼ö ÀÖµµ·Ï À¯¿ëÇÑ Á¤º¸¸¦ Á¦°øÇØÁÖ¼¼¿ä.\n\n    ´ëÈ­ ±â·Ï:\n    [{'role': 'user', 'content': '»çÀå´ÔÀÌ µ·À» ¾È Áà¿ä.'}]\n\n    AI:\n    ", 'role': 'user'}], 'model': 'gpt-3.5-turbo-0125', 'logprobs': False, 'max_tokens': 4096, 'n': 1, 'stream': False, 'temperature': 0.0}}
+DEBUG:openai._base_client:Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+DEBUG:httpcore.connection:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+DEBUG:httpcore.connection:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000268BB94D910>
+DEBUG:httpcore.connection:start_tls.started ssl_context=<ssl.SSLContext object at 0x00000268BB85FEC0> server_hostname='api.openai.com' timeout=None
+DEBUG:httpcore.connection:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000268BB94D8E0>
+DEBUG:httpcore.http11:send_request_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_headers.complete
+DEBUG:httpcore.http11:send_request_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_body.complete
+DEBUG:httpcore.http11:receive_response_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 01 Aug 2024 15:34:05 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-mz1a8rvtmpafscx1uxmuflg6'), (b'openai-processing-ms', b'1411'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=15552000; includeSubDomains; preload'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'10000000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'9995904'), (b'x-ratelimit-reset-requests', b'6ms'), (b'x-ratelimit-reset-tokens', b'24ms'), (b'x-request-id', b'req_805e4d1b03f0384222514f0e0f541737'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=9VU1KQug8BSaLjV3zCTpLkytNIvsGk1hou9NgMITeHw-1722526445-1.0.1.1-9KYf87WDEpzptNIrtYim054bZy1LP9JYkcl_6EZYA9fgqia62zlPW4hV04lzJK6CXN4bBiOavAqPD0JeaTOA1g; path=/; expires=Thu, 01-Aug-24 16:04:05 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=eA2VYdf4XsJzL4d9A6wPI3U2cl2tA6oEeOteNxUMdwQ-1722526445392-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8ac6e3e0dad58b6a-ICN'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+DEBUG:httpcore.http11:receive_response_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_body.complete
+DEBUG:httpcore.http11:response_closed.started
+DEBUG:httpcore.http11:response_closed.complete
+DEBUG:openai._base_client:HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 01 Aug 2024 15:34:05 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-mz1a8rvtmpafscx1uxmuflg6'), ('openai-processing-ms', '1411'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=15552000; includeSubDomains; preload'), ('x-ratelimit-limit-requests', '10000'), ('x-ratelimit-limit-tokens', '10000000'), ('x-ratelimit-remaining-requests', '9999'), ('x-ratelimit-remaining-tokens', '9995904'), ('x-ratelimit-reset-requests', '6ms'), ('x-ratelimit-reset-tokens', '24ms'), ('x-request-id', 'req_805e4d1b03f0384222514f0e0f541737'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=9VU1KQug8BSaLjV3zCTpLkytNIvsGk1hou9NgMITeHw-1722526445-1.0.1.1-9KYf87WDEpzptNIrtYim054bZy1LP9JYkcl_6EZYA9fgqia62zlPW4hV04lzJK6CXN4bBiOavAqPD0JeaTOA1g; path=/; expires=Thu, 01-Aug-24 16:04:05 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=eA2VYdf4XsJzL4d9A6wPI3U2cl2tA6oEeOteNxUMdwQ-1722526445392-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '8ac6e3e0dad58b6a-ICN'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+DEBUG:openai._base_client:request_id: req_805e4d1b03f0384222514f0e0f541737
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:34:05] "POST /process_speech HTTP/1.1" 200 -
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:openai._base_client:Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': "\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚ¸¦ »ó´ãÇÏ´Â Ãªº¿ÀÔ´Ï´Ù. ´ÙÀ½ ÁöÄ§¿¡ µû¶óÁÖ¼¼¿ä.\n\n    ½¬¿î ´Ü¾î¿Í °£´ÜÇÑ ¹®Àå ±¸Á¶¸¦ »ç¿ëÇÏ¼¼¿ä.\n    º¹ÀâÇÑ ¹ý·ü ¿ë¾î³ª ÇàÁ¤ ¿ë¾î´Â Ç®¾î¼­ ¼³¸íÇØÁÖ¼¼¿ä.\n    ÁÖ¿ä Á¤º¸´Â À¯ÁöÇÏµÇ, ºÒÇÊ¿äÇÑ ¼¼ºÎ»çÇ×Àº »ý·«ÇÏ¼¼¿ä.\n    ½Ã°£ ¼ø¼­´ë·Î »ç°ÇÀ» Á¤¸®ÇÏ¿© ÀÌÇØÇÏ±â ½±°Ô ÇØÁÖ¼¼¿ä.\n    ³¯Â¥´Â Ç¥½ÃÇÏÁö ¸»¾ÆÁÖ¼¼¿ä.\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚµéÀÌ ºñ½ÁÇÑ »óÈ²¿¡ Ã³ÇßÀ» ¶§ Âü°íÇÒ ¼ö ÀÖµµ·Ï À¯¿ëÇÑ Á¤º¸¸¦ Á¦°øÇØÁÖ¼¼¿ä.\n\n    ´ëÈ­ ±â·Ï:\n    [{'role': 'user', 'content': '»çÀå´ÔÀÌ µ·À» ¾È Áà¿ä.'}, {'role': 'assistant', 'content': '»çÀå´ÔÀÌ µ·À» Áö±ÞÇÏÁö ¾Ê´Â °æ¿ì, ¸ÕÀú »çÀå°ú ´ëÈ­¸¦ ½ÃµµÇØº¸¼¼¿ä. ¸¸¾à ÇØ°áµÇÁö ¾ÊÀ¸¸é, ³ëµ¿Ã»¿¡ ½Å°íÇÒ ¼ö ÀÖ½À´Ï´Ù. ³ëµ¿Ã»Àº ³ëµ¿ÀÚÀÇ ±Ç¸®¸¦ º¸È£ÇÏ±â À§ÇØ ³ë·ÂÇÏ°í ÀÖ½À´Ï´Ù.½Å°í¸¦ ÇÒ ¶§´Â ±Ù·Î°è¾à¼­³ª ±Ù·Î½Ã°£ ±â·Ï µîÀÇ Áõ°Å¸¦ ÁØºñÇÏ´Â °ÍÀÌ µµ¿òÀÌ µÉ ¼ö ÀÖ½À´Ï´Ù.'}, {'role': 'user', 'content': '¹¹ ¹¹.'}]\n\n    AI:\n    ", 'role': 'user'}], 'model': 'gpt-3.5-turbo-0125', 'logprobs': False, 'max_tokens': 4096, 'n': 1, 'stream': False, 'temperature': 0.0}}
+DEBUG:openai._base_client:Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+DEBUG:httpcore.connection:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+DEBUG:httpcore.connection:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000268BB9C7730>
+DEBUG:httpcore.connection:start_tls.started ssl_context=<ssl.SSLContext object at 0x00000268BB8F6840> server_hostname='api.openai.com' timeout=None
+DEBUG:httpcore.connection:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000268BB9C7700>
+DEBUG:httpcore.http11:send_request_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_headers.complete
+DEBUG:httpcore.http11:send_request_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_body.complete
+DEBUG:httpcore.http11:receive_response_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 01 Aug 2024 15:34:45 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-mz1a8rvtmpafscx1uxmuflg6'), (b'openai-processing-ms', b'1906'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=15552000; includeSubDomains; preload'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'10000000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'9995904'), (b'x-ratelimit-reset-requests', b'6ms'), (b'x-ratelimit-reset-tokens', b'24ms'), (b'x-request-id', b'req_871198ecca5863d1b75b41916126e280'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=5z3KFNu2pJstD0W1ij_Gc0Dv4faP0lPG1v4DBBi9Woc-1722526485-1.0.1.1-bfDnGE5YDbevxu_hEMBAV8r82Cy1EKIh4yAzF5xYHP3Kb8SGWFSUP8lCOCdxVcArcc4h9I.rzxI9LW72Uv7ieg; path=/; expires=Thu, 01-Aug-24 16:04:45 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=1Q3pJqOtymoS_uZg8CRHDa9DiMkUbcrfJhvLd21xACY-1722526485645-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8ac6e4d97a4eaa78-ICN'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+DEBUG:httpcore.http11:receive_response_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_body.complete
+DEBUG:httpcore.http11:response_closed.started
+DEBUG:httpcore.http11:response_closed.complete
+DEBUG:openai._base_client:HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 01 Aug 2024 15:34:45 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-mz1a8rvtmpafscx1uxmuflg6'), ('openai-processing-ms', '1906'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=15552000; includeSubDomains; preload'), ('x-ratelimit-limit-requests', '10000'), ('x-ratelimit-limit-tokens', '10000000'), ('x-ratelimit-remaining-requests', '9999'), ('x-ratelimit-remaining-tokens', '9995904'), ('x-ratelimit-reset-requests', '6ms'), ('x-ratelimit-reset-tokens', '24ms'), ('x-request-id', 'req_871198ecca5863d1b75b41916126e280'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=5z3KFNu2pJstD0W1ij_Gc0Dv4faP0lPG1v4DBBi9Woc-1722526485-1.0.1.1-bfDnGE5YDbevxu_hEMBAV8r82Cy1EKIh4yAzF5xYHP3Kb8SGWFSUP8lCOCdxVcArcc4h9I.rzxI9LW72Uv7ieg; path=/; expires=Thu, 01-Aug-24 16:04:45 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=1Q3pJqOtymoS_uZg8CRHDa9DiMkUbcrfJhvLd21xACY-1722526485645-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '8ac6e4d97a4eaa78-ICN'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+DEBUG:openai._base_client:request_id: req_871198ecca5863d1b75b41916126e280
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:34:45] "POST /process_speech HTTP/1.1" 200 -
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:openai._base_client:Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': "\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚ¸¦ »ó´ãÇÏ´Â Ãªº¿ÀÔ´Ï´Ù. ´ÙÀ½ ÁöÄ§¿¡ µû¶óÁÖ¼¼¿ä.\n\n    ½¬¿î ´Ü¾î¿Í °£´ÜÇÑ ¹®Àå ±¸Á¶¸¦ »ç¿ëÇÏ¼¼¿ä.\n    º¹ÀâÇÑ ¹ý·ü ¿ë¾î³ª ÇàÁ¤ ¿ë¾î´Â Ç®¾î¼­ ¼³¸íÇØÁÖ¼¼¿ä.\n    ÁÖ¿ä Á¤º¸´Â À¯ÁöÇÏµÇ, ºÒÇÊ¿äÇÑ ¼¼ºÎ»çÇ×Àº »ý·«ÇÏ¼¼¿ä.\n    ½Ã°£ ¼ø¼­´ë·Î »ç°ÇÀ» Á¤¸®ÇÏ¿© ÀÌÇØÇÏ±â ½±°Ô ÇØÁÖ¼¼¿ä.\n    ³¯Â¥´Â Ç¥½ÃÇÏÁö ¸»¾ÆÁÖ¼¼¿ä.\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚµéÀÌ ºñ½ÁÇÑ »óÈ²¿¡ Ã³ÇßÀ» ¶§ Âü°íÇÒ ¼ö ÀÖµµ·Ï À¯¿ëÇÑ Á¤º¸¸¦ Á¦°øÇØÁÖ¼¼¿ä.\n\n    ´ëÈ­ ±â·Ï:\n    [{'role': 'user', 'content': '»çÀå´ÔÀÌ µ·À» ¾È Áà¿ä.'}, {'role': 'assistant', 'content': '»çÀå´ÔÀÌ µ·À» Áö±ÞÇÏÁö ¾Ê´Â °æ¿ì, ¸ÕÀú »çÀå°ú ´ëÈ­¸¦ ½ÃµµÇØº¸¼¼¿ä. ¸¸¾à ÇØ°áµÇÁö ¾ÊÀ¸¸é, ³ëµ¿Ã»¿¡ ½Å°íÇÒ ¼ö ÀÖ½À´Ï´Ù. ³ëµ¿Ã»Àº ³ëµ¿ÀÚÀÇ ±Ç¸®¸¦ º¸È£ÇÏ±â À§ÇØ ³ë·ÂÇÏ°í ÀÖ½À´Ï´Ù.½Å°í¸¦ ÇÒ ¶§´Â ±Ù·Î°è¾à¼­³ª ±Ù·Î½Ã°£ ±â·Ï µîÀÇ Áõ°Å¸¦ ÁØºñÇÏ´Â °ÍÀÌ µµ¿òÀÌ µÉ ¼ö ÀÖ½À´Ï´Ù.'}, {'role': 'user', 'content': '¹¹ ¹¹.'}, {'role': 'assistant', 'content': '»çÀå´ÔÀÌ µ·À» Áö±ÞÇÏÁö ¾Ê´Â °æ¿ì, ¸ÕÀú »çÀå°ú ´ëÈ­¸¦ ½ÃµµÇØº¸¼¼¿ä. ¸¸¾à ÇØ°áµÇÁö ¾ÊÀ¸¸é, ³ëµ¿Ã»¿¡ ½Å°íÇÒ ¼ö ÀÖ½À´Ï´Ù. ³ëµ¿Ã»Àº ³ëµ¿ÀÚÀÇ ±Ç¸®¸¦ º¸È£ÇÏ±â À§ÇØ ³ë·ÂÇÏ°í ÀÖ½À´Ï´Ù. ½Å°í¸¦ ÇÒ ¶§´Â ±Ù·Î°è¾à¼­³ª ±Ù·Î½Ã°£ ±â·Ï µîÀÇ Áõ°Å¸¦ ÁØºñÇÏ´Â °ÍÀÌ µµ¿òÀÌ µÉ ¼ö ÀÖ½À´Ï´Ù. ³ëµ¿ÀÚµéÀÌ µ·À» ¹ÞÁö ¸øÇÏ´Â °æ¿ì, ³ëµ¿Ã»¿¡ µµ¿òÀ» ¿äÃ»ÇÒ ¼ö ÀÖ½À´Ï´Ù.'}, {'role': 'user', 'content': '¾î ¾Ë°Ú¾î.  ¿©º¸¼¼¿ä!  µÑÀÌ °Çµ¥.  ¿©º¸¼¼¿ä!  ¿©º¸¼¼¿ä!'}]\n\n    AI:\n    ", 'role': 'user'}], 'model': 'gpt-3.5-turbo-0125', 'logprobs': False, 'max_tokens': 4096, 'n': 1, 'stream': False, 'temperature': 0.0}}
+DEBUG:openai._base_client:Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+DEBUG:httpcore.connection:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+DEBUG:httpcore.connection:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000268BB9DD040>
+DEBUG:httpcore.connection:start_tls.started ssl_context=<ssl.SSLContext object at 0x00000268BB8F6740> server_hostname='api.openai.com' timeout=None
+DEBUG:httpcore.connection:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000268BB9D9E80>
+DEBUG:httpcore.http11:send_request_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_headers.complete
+DEBUG:httpcore.http11:send_request_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_body.complete
+DEBUG:httpcore.http11:receive_response_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 01 Aug 2024 15:35:57 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-mz1a8rvtmpafscx1uxmuflg6'), (b'openai-processing-ms', b'2595'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=15552000; includeSubDomains; preload'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'10000000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'9995904'), (b'x-ratelimit-reset-requests', b'6ms'), (b'x-ratelimit-reset-tokens', b'24ms'), (b'x-request-id', b'req_467f5da94d32938c5ae00a640e47770a'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=Y.HnBfWNSKPkKspvJvP5uD8L9HSqEocnByimvLcpAz8-1722526557-1.0.1.1-7JlYHGARXB4wraqv4XI0_Zu3kt9a7svNpYOHso_UjK2SPfMavK2l9zKf4ZmDAkQxO3tr3CGKouRCj8sRGUm85A; path=/; expires=Thu, 01-Aug-24 16:05:57 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=lMC9vpoSn5VS_s9l7PGz3FhOHXggSIHjaw1uKPK8ciQ-1722526557635-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8ac6e696dfb98b6c-ICN'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+DEBUG:httpcore.http11:receive_response_body.started request=<Request [b'POST']>
+DEBUG:httpcore.connection:close.started
+DEBUG:httpcore.connection:close.complete
+DEBUG:httpcore.connection:close.started
+DEBUG:httpcore.connection:close.complete
+DEBUG:httpcore.http11:receive_response_body.complete
+DEBUG:httpcore.http11:response_closed.started
+DEBUG:httpcore.http11:response_closed.complete
+DEBUG:openai._base_client:HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 01 Aug 2024 15:35:57 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-mz1a8rvtmpafscx1uxmuflg6'), ('openai-processing-ms', '2595'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=15552000; includeSubDomains; preload'), ('x-ratelimit-limit-requests', '10000'), ('x-ratelimit-limit-tokens', '10000000'), ('x-ratelimit-remaining-requests', '9999'), ('x-ratelimit-remaining-tokens', '9995904'), ('x-ratelimit-reset-requests', '6ms'), ('x-ratelimit-reset-tokens', '24ms'), ('x-request-id', 'req_467f5da94d32938c5ae00a640e47770a'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=Y.HnBfWNSKPkKspvJvP5uD8L9HSqEocnByimvLcpAz8-1722526557-1.0.1.1-7JlYHGARXB4wraqv4XI0_Zu3kt9a7svNpYOHso_UjK2SPfMavK2l9zKf4ZmDAkQxO3tr3CGKouRCj8sRGUm85A; path=/; expires=Thu, 01-Aug-24 16:05:57 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=lMC9vpoSn5VS_s9l7PGz3FhOHXggSIHjaw1uKPK8ciQ-1722526557635-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '8ac6e696dfb98b6c-ICN'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+DEBUG:openai._base_client:request_id: req_467f5da94d32938c5ae00a640e47770a
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:35:57] "POST /process_speech HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+DEBUG:httpcore.connection:close.started
+DEBUG:httpcore.connection:close.complete
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:42:11] "POST /voice HTTP/1.1" 200 -
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:openai._base_client:Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': "\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚ¸¦ »ó´ãÇÏ´Â Ãªº¿ÀÔ´Ï´Ù. ´ÙÀ½ ÁöÄ§¿¡ µû¶óÁÖ¼¼¿ä.\n\n    ½¬¿î ´Ü¾î¿Í °£´ÜÇÑ ¹®Àå ±¸Á¶¸¦ »ç¿ëÇÏ¼¼¿ä.\n    º¹ÀâÇÑ ¹ý·ü ¿ë¾î³ª ÇàÁ¤ ¿ë¾î´Â Ç®¾î¼­ ¼³¸íÇØÁÖ¼¼¿ä.\n    ÁÖ¿ä Á¤º¸´Â À¯ÁöÇÏµÇ, ºÒÇÊ¿äÇÑ ¼¼ºÎ»çÇ×Àº »ý·«ÇÏ¼¼¿ä.\n    ½Ã°£ ¼ø¼­´ë·Î »ç°ÇÀ» Á¤¸®ÇÏ¿© ÀÌÇØÇÏ±â ½±°Ô ÇØÁÖ¼¼¿ä.\n    ³¯Â¥´Â Ç¥½ÃÇÏÁö ¸»¾ÆÁÖ¼¼¿ä.\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚµéÀÌ ºñ½ÁÇÑ »óÈ²¿¡ Ã³ÇßÀ» ¶§ Âü°íÇÒ ¼ö ÀÖµµ·Ï À¯¿ëÇÑ Á¤º¸¸¦ Á¦°øÇØÁÖ¼¼¿ä.\n\n    ´ëÈ­ ±â·Ï:\n    [{'role': 'user', 'content': '»çÀå´ÔÀÌ µ·À» ¾È Áà¿ä.'}]\n\n    AI:\n    ", 'role': 'user'}], 'model': 'gpt-3.5-turbo-0125', 'logprobs': False, 'max_tokens': 4096, 'n': 1, 'stream': False, 'temperature': 0.0}}
+DEBUG:openai._base_client:Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+DEBUG:httpcore.connection:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+DEBUG:httpcore.connection:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000261787BDDC0>
+DEBUG:httpcore.connection:start_tls.started ssl_context=<ssl.SSLContext object at 0x0000026178748040> server_hostname='api.openai.com' timeout=None
+DEBUG:httpcore.connection:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000261787BDD90>
+DEBUG:httpcore.http11:send_request_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_headers.complete
+DEBUG:httpcore.http11:send_request_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_body.complete
+DEBUG:httpcore.http11:receive_response_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 01 Aug 2024 15:42:29 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-mz1a8rvtmpafscx1uxmuflg6'), (b'openai-processing-ms', b'1981'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=15552000; includeSubDomains; preload'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'10000000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'9995904'), (b'x-ratelimit-reset-requests', b'6ms'), (b'x-ratelimit-reset-tokens', b'24ms'), (b'x-request-id', b'req_506e5aa5cca991c1680b84c47310ebe4'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=_SncJh9EKsAa45vb0BC4q2F3BDAXHgu5QtFCO0IbUxQ-1722526949-1.0.1.1-RnM5jfOSnbcNGqgQAfCDOlL6h36h2QT0mMpzITWrpZ5GKeNrl3Us0nRaVlboIa2uTg6pmVVRxz02gq1972qnQQ; path=/; expires=Thu, 01-Aug-24 16:12:29 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=14F.37MK8XxPQU23vZDYLyAlxyW_kcUdx0tuBaVdwGE-1722526949907-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8ac6f02e2cf230c1-ICN'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+DEBUG:httpcore.http11:receive_response_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_body.complete
+DEBUG:httpcore.http11:response_closed.started
+DEBUG:httpcore.http11:response_closed.complete
+DEBUG:openai._base_client:HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 01 Aug 2024 15:42:29 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-mz1a8rvtmpafscx1uxmuflg6'), ('openai-processing-ms', '1981'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=15552000; includeSubDomains; preload'), ('x-ratelimit-limit-requests', '10000'), ('x-ratelimit-limit-tokens', '10000000'), ('x-ratelimit-remaining-requests', '9999'), ('x-ratelimit-remaining-tokens', '9995904'), ('x-ratelimit-reset-requests', '6ms'), ('x-ratelimit-reset-tokens', '24ms'), ('x-request-id', 'req_506e5aa5cca991c1680b84c47310ebe4'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=_SncJh9EKsAa45vb0BC4q2F3BDAXHgu5QtFCO0IbUxQ-1722526949-1.0.1.1-RnM5jfOSnbcNGqgQAfCDOlL6h36h2QT0mMpzITWrpZ5GKeNrl3Us0nRaVlboIa2uTg6pmVVRxz02gq1972qnQQ; path=/; expires=Thu, 01-Aug-24 16:12:29 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=14F.37MK8XxPQU23vZDYLyAlxyW_kcUdx0tuBaVdwGE-1722526949907-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '8ac6f02e2cf230c1-ICN'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+DEBUG:openai._base_client:request_id: req_506e5aa5cca991c1680b84c47310ebe4
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:42:29] "POST /process_speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:42:49] "POST /request_input HTTP/1.1" 200 -
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:openai._base_client:Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': "\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚ¸¦ »ó´ãÇÏ´Â Ãªº¿ÀÔ´Ï´Ù. ´ÙÀ½ ÁöÄ§¿¡ µû¶óÁÖ¼¼¿ä.\n\n    ½¬¿î ´Ü¾î¿Í °£´ÜÇÑ ¹®Àå ±¸Á¶¸¦ »ç¿ëÇÏ¼¼¿ä.\n    º¹ÀâÇÑ ¹ý·ü ¿ë¾î³ª ÇàÁ¤ ¿ë¾î´Â Ç®¾î¼­ ¼³¸íÇØÁÖ¼¼¿ä.\n    ÁÖ¿ä Á¤º¸´Â À¯ÁöÇÏµÇ, ºÒÇÊ¿äÇÑ ¼¼ºÎ»çÇ×Àº »ý·«ÇÏ¼¼¿ä.\n    ½Ã°£ ¼ø¼­´ë·Î »ç°ÇÀ» Á¤¸®ÇÏ¿© ÀÌÇØÇÏ±â ½±°Ô ÇØÁÖ¼¼¿ä.\n    ³¯Â¥´Â Ç¥½ÃÇÏÁö ¸»¾ÆÁÖ¼¼¿ä.\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚµéÀÌ ºñ½ÁÇÑ »óÈ²¿¡ Ã³ÇßÀ» ¶§ Âü°íÇÒ ¼ö ÀÖµµ·Ï À¯¿ëÇÑ Á¤º¸¸¦ Á¦°øÇØÁÖ¼¼¿ä.\n\n    ´ëÈ­ ±â·Ï:\n    [{'role': 'user', 'content': '»çÀå´ÔÀÌ µ·À» ¾È Áà¿ä.'}, {'role': 'assistant', 'content': '»çÀå´ÔÀÌ µ·À» Áö±ÞÇÏÁö ¾Ê´Â °æ¿ì, ¸ÕÀú »çÀå°ú ´ëÈ­¸¦ ½ÃµµÇØº¸¼¼¿ä. ¸¸¾à ÇØ°áµÇÁö ¾ÊÀ¸¸é, ³ëµ¿Ã»¿¡ ½Å°íÇÒ ¼ö ÀÖ½À´Ï´Ù. ³ëµ¿Ã»Àº ³ëµ¿ÀÚÀÇ ±Ç¸®¸¦ º¸È£ÇÏ±â À§ÇØ ³ë·ÂÇÏ°í ÀÖ½À´Ï´Ù.½Å°í¸¦ ÇÒ ¶§´Â ±Ù·Î°è¾à¼­³ª ±Ù·Î½Ã°£ ±â·Ï µîÀÇ Áõ°Å¸¦ ÁØºñÇÏ´Â °ÍÀÌ µµ¿òÀÌ µË´Ï´Ù.'}, {'role': 'user', 'content': '¾î, °í¸¶¿ö.'}]\n\n    AI:\n    ", 'role': 'user'}], 'model': 'gpt-3.5-turbo-0125', 'logprobs': False, 'max_tokens': 4096, 'n': 1, 'stream': False, 'temperature': 0.0}}
+DEBUG:openai._base_client:Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+DEBUG:httpcore.connection:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+DEBUG:httpcore.connection:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000261788398E0>
+DEBUG:httpcore.connection:start_tls.started ssl_context=<ssl.SSLContext object at 0x00000261787487C0> server_hostname='api.openai.com' timeout=None
+DEBUG:httpcore.connection:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000261788398B0>
+DEBUG:httpcore.http11:send_request_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_headers.complete
+DEBUG:httpcore.http11:send_request_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_body.complete
+DEBUG:httpcore.http11:receive_response_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 01 Aug 2024 15:43:00 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-mz1a8rvtmpafscx1uxmuflg6'), (b'openai-processing-ms', b'1521'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=15552000; includeSubDomains; preload'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'10000000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'9995904'), (b'x-ratelimit-reset-requests', b'6ms'), (b'x-ratelimit-reset-tokens', b'24ms'), (b'x-request-id', b'req_c58b771e4ff9d25823b9b41c93ace419'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=T.vGZgLAR27Q2bRVTcJuvuSQeTFJ7kdHzYPoxUf060Y-1722526980-1.0.1.1-TgVrktJUjB7Wks0xKKNijNEnFOcCOQrA1Rkjad1COXdeVSog3EMe7JzLQJEBrEdiCGoV_kmbKmAFFDgSZR6TKw; path=/; expires=Thu, 01-Aug-24 16:13:00 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=BTLdHt95YX_mAhPTdrgJQVNXv.jDA.BXxAs8cMadQVQ-1722526980552-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8ac6f0f0cdfdc05d-ICN'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+DEBUG:httpcore.http11:receive_response_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_body.complete
+DEBUG:httpcore.http11:response_closed.started
+DEBUG:httpcore.http11:response_closed.complete
+DEBUG:openai._base_client:HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 01 Aug 2024 15:43:00 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-mz1a8rvtmpafscx1uxmuflg6'), ('openai-processing-ms', '1521'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=15552000; includeSubDomains; preload'), ('x-ratelimit-limit-requests', '10000'), ('x-ratelimit-limit-tokens', '10000000'), ('x-ratelimit-remaining-requests', '9999'), ('x-ratelimit-remaining-tokens', '9995904'), ('x-ratelimit-reset-requests', '6ms'), ('x-ratelimit-reset-tokens', '24ms'), ('x-request-id', 'req_c58b771e4ff9d25823b9b41c93ace419'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=T.vGZgLAR27Q2bRVTcJuvuSQeTFJ7kdHzYPoxUf060Y-1722526980-1.0.1.1-TgVrktJUjB7Wks0xKKNijNEnFOcCOQrA1Rkjad1COXdeVSog3EMe7JzLQJEBrEdiCGoV_kmbKmAFFDgSZR6TKw; path=/; expires=Thu, 01-Aug-24 16:13:00 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=BTLdHt95YX_mAhPTdrgJQVNXv.jDA.BXxAs8cMadQVQ-1722526980552-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '8ac6f0f0cdfdc05d-ICN'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+DEBUG:openai._base_client:request_id: req_c58b771e4ff9d25823b9b41c93ace419
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:43:00] "POST /process_speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:43:05] "POST /request_input HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+DEBUG:httpcore.connection:close.started
+DEBUG:httpcore.connection:close.complete
+DEBUG:httpcore.connection:close.started
+DEBUG:httpcore.connection:close.complete
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:45:43] "POST /voice HTTP/1.1" 200 -
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:openai._base_client:Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': "\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚ¸¦ »ó´ãÇÏ´Â Ãªº¿ÀÔ´Ï´Ù. ´ëÈ­±â·ÏÀ» Âü°íÇØ ÀûÀýÇÑ ´äº¯À» ÇØÁÖ¼¼¿ä.\n\n    ´ëÈ­ ±â·Ï:\n    [{'role': 'user', 'content': '»çÀå´ÔÀÌ µ·À» ¾È Áà¿ä.'}]\n\n    AI:\n    ", 'role': 'user'}], 'model': 'gpt-3.5-turbo-0125', 'logprobs': False, 'max_tokens': 4096, 'n': 1, 'stream': False, 'temperature': 0.0}}
+DEBUG:openai._base_client:Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+DEBUG:httpcore.connection:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+DEBUG:httpcore.connection:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000202751CCDC0>
+DEBUG:httpcore.connection:start_tls.started ssl_context=<ssl.SSLContext object at 0x0000020275158040> server_hostname='api.openai.com' timeout=None
+DEBUG:httpcore.connection:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000202751CCD90>
+DEBUG:httpcore.http11:send_request_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_headers.complete
+DEBUG:httpcore.http11:send_request_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_body.complete
+DEBUG:httpcore.http11:receive_response_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 01 Aug 2024 15:46:00 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-mz1a8rvtmpafscx1uxmuflg6'), (b'openai-processing-ms', b'2433'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=15552000; includeSubDomains; preload'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'10000000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'9995904'), (b'x-ratelimit-reset-requests', b'6ms'), (b'x-ratelimit-reset-tokens', b'24ms'), (b'x-request-id', b'req_dd3c4919eccb20b864d5d135038f4537'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=NqbhD3QJ_24o1vi.ln3yzWGHPN0tGp1xr7ToXI7fOXU-1722527160-1.0.1.1-8NZ8wTpZrUpL9qNRJ1eE5I7E0PNPXuqC7fOJRb0C9vLkCK5PLjC89WObqVGYbdvLcJDu8rZ.CR.wWfSzahvBmw; path=/; expires=Thu, 01-Aug-24 16:16:00 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=bnR4Y435ExD6QuuifsHCkOyXljCEvDGy7KRBBo.tveo-1722527160581-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8ac6f54fbb483175-ICN'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+DEBUG:httpcore.http11:receive_response_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_body.complete
+DEBUG:httpcore.http11:response_closed.started
+DEBUG:httpcore.http11:response_closed.complete
+DEBUG:openai._base_client:HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 01 Aug 2024 15:46:00 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-mz1a8rvtmpafscx1uxmuflg6'), ('openai-processing-ms', '2433'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=15552000; includeSubDomains; preload'), ('x-ratelimit-limit-requests', '10000'), ('x-ratelimit-limit-tokens', '10000000'), ('x-ratelimit-remaining-requests', '9999'), ('x-ratelimit-remaining-tokens', '9995904'), ('x-ratelimit-reset-requests', '6ms'), ('x-ratelimit-reset-tokens', '24ms'), ('x-request-id', 'req_dd3c4919eccb20b864d5d135038f4537'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=NqbhD3QJ_24o1vi.ln3yzWGHPN0tGp1xr7ToXI7fOXU-1722527160-1.0.1.1-8NZ8wTpZrUpL9qNRJ1eE5I7E0PNPXuqC7fOJRb0C9vLkCK5PLjC89WObqVGYbdvLcJDu8rZ.CR.wWfSzahvBmw; path=/; expires=Thu, 01-Aug-24 16:16:00 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=bnR4Y435ExD6QuuifsHCkOyXljCEvDGy7KRBBo.tveo-1722527160581-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '8ac6f54fbb483175-ICN'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+DEBUG:openai._base_client:request_id: req_dd3c4919eccb20b864d5d135038f4537
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:46:00] "POST /process_speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:46:28] "POST /request_input HTTP/1.1" 200 -
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:openai._base_client:Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': "\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚ¸¦ »ó´ãÇÏ´Â Ãªº¿ÀÔ´Ï´Ù. ´ëÈ­±â·ÏÀ» Âü°íÇØ ÀûÀýÇÑ ´äº¯À» ÇØÁÖ¼¼¿ä.\n\n    ´ëÈ­ ±â·Ï:\n    [{'role': 'user', 'content': '»çÀå´ÔÀÌ µ·À» ¾È Áà¿ä.'}, {'role': 'assistant', 'content': 'ÀÌÇØÇß½À´Ï´Ù. »çÀå´ÔÀÌ µ·À» Á¦¶§ Áö±ÞÇØÁÖÁö ¾Ê´Â´Ù¸é, ³ëµ¿ÀÚ º¸È£¹ý¿¡ µû¶ó ±Ù·ÎÀÚ´Â ±Ù·Î ´ë°¡¸¦ ¹ÞÀ» ±Ç¸®°¡ ÀÖ½À´Ï´Ù. ³ëµ¿Á¶ÇÕÀÌ³ª ³ëµ¿Ã»¿¡ ¹®ÀÇÇÏ¿© µµ¿òÀ» ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù. ¶ÇÇÑ, ±Ù·Î°è¾à¼­³ª ±Ù·Î±ÔÄ¢À» È®ÀÎÇÏ¿© ±Ç¸®¸¦ º¸È£¹ÞÀ» ¼ö ÀÖ´Â ¹æ¹ýÀ» Ã£¾Æº¸½Ã´Â °Íµµ µµ¿òÀÌ µÉ ¼ö ÀÖ½À´Ï´Ù. È¤Àº ³ëµ¿°ü°è¹ý·ü »ó´ãÀ» ¹ÞÀ» ¼ö ÀÖ´Â °÷À» Ã£¾Æº¸½Ã´Â °Íµµ ÁÁÀº ¹æ¹ýÀÏ ¼ö ÀÖ½À´Ï´Ù.'}, {'role': 'user', 'content': '¾î ´ë´äÇØ Áà¼­ °í¸¶¿ö.'}]\n\n    AI:\n    ", 'role': 'user'}], 'model': 'gpt-3.5-turbo-0125', 'logprobs': False, 'max_tokens': 4096, 'n': 1, 'stream': False, 'temperature': 0.0}}
+DEBUG:openai._base_client:Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+DEBUG:httpcore.connection:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+DEBUG:httpcore.connection:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000202752488E0>
+DEBUG:httpcore.connection:start_tls.started ssl_context=<ssl.SSLContext object at 0x00000202751587C0> server_hostname='api.openai.com' timeout=None
+DEBUG:httpcore.connection:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000202752488B0>
+DEBUG:httpcore.http11:send_request_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_headers.complete
+DEBUG:httpcore.http11:send_request_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_body.complete
+DEBUG:httpcore.http11:receive_response_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 01 Aug 2024 15:46:40 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-mz1a8rvtmpafscx1uxmuflg6'), (b'openai-processing-ms', b'1066'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=15552000; includeSubDomains; preload'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'10000000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'9995904'), (b'x-ratelimit-reset-requests', b'6ms'), (b'x-ratelimit-reset-tokens', b'24ms'), (b'x-request-id', b'req_ec3fd628e6667c04ebd3f3f81c9caaae'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=jLgNVmdZs6rakBkEwDN26nwMTY5q2fZNF85POfwFNus-1722527200-1.0.1.1-RsfW6eaxe8x4tpNtShk8H8PmW5tV5NzX0ActIqf.Or0jvcO7SSmjJkctwDl4rqhlrNXcvQkvV5Aa1ALTqAGSYw; path=/; expires=Thu, 01-Aug-24 16:16:40 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=qvsyQMvzIG2yNEiWbxMTPXrxr4VjvRwiwNOrBBxpc7w-1722527200373-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8ac6f6516f5d30bb-ICN'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+DEBUG:httpcore.http11:receive_response_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_body.complete
+DEBUG:httpcore.http11:response_closed.started
+DEBUG:httpcore.http11:response_closed.complete
+DEBUG:openai._base_client:HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 01 Aug 2024 15:46:40 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-mz1a8rvtmpafscx1uxmuflg6'), ('openai-processing-ms', '1066'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=15552000; includeSubDomains; preload'), ('x-ratelimit-limit-requests', '10000'), ('x-ratelimit-limit-tokens', '10000000'), ('x-ratelimit-remaining-requests', '9999'), ('x-ratelimit-remaining-tokens', '9995904'), ('x-ratelimit-reset-requests', '6ms'), ('x-ratelimit-reset-tokens', '24ms'), ('x-request-id', 'req_ec3fd628e6667c04ebd3f3f81c9caaae'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=jLgNVmdZs6rakBkEwDN26nwMTY5q2fZNF85POfwFNus-1722527200-1.0.1.1-RsfW6eaxe8x4tpNtShk8H8PmW5tV5NzX0ActIqf.Or0jvcO7SSmjJkctwDl4rqhlrNXcvQkvV5Aa1ALTqAGSYw; path=/; expires=Thu, 01-Aug-24 16:16:40 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=qvsyQMvzIG2yNEiWbxMTPXrxr4VjvRwiwNOrBBxpc7w-1722527200373-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '8ac6f6516f5d30bb-ICN'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+DEBUG:openai._base_client:request_id: req_ec3fd628e6667c04ebd3f3f81c9caaae
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:46:40] "POST /process_speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 00:46:45] "POST /request_input HTTP/1.1" 200 -
+DEBUG:httpcore.connection:close.started
+DEBUG:httpcore.connection:close.complete
+DEBUG:httpcore.connection:close.started
+DEBUG:httpcore.connection:close.complete
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://10.50.1.191:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 01:04:11] "POST /voice HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://10.50.1.191:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 01:04:55] "POST /voice HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://10.50.1.191:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 01:05:25] "POST /voice HTTP/1.1" 200 -
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:openai._base_client:Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': "\n    ¿Ü±¹ÀÎ ±Ù·ÎÀÚ¸¦ »ó´ãÇÏ´Â Ãªº¿ÀÔ´Ï´Ù. ´ëÈ­±â·ÏÀ» Âü°íÇØ ÀûÀýÇÑ ´äº¯À» ÇØÁÖ¼¼¿ä.\n\n    ´ëÈ­ ±â·Ï:\n    [{'role': 'user', 'content': '³»°¡ Áö±Ý ´ÙÃÆ´Âµ¥ ³»°¡ º¹ÀÌ ¾ø¾î ¾î¶»°Ô ÇØ¾ß µÉ±î?'}]\n\n    AI:\n    ", 'role': 'user'}], 'model': 'gpt-3.5-turbo-0125', 'logprobs': False, 'max_tokens': 4096, 'n': 1, 'stream': False, 'temperature': 0.0}}
+DEBUG:openai._base_client:Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+DEBUG:httpcore.connection:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+DEBUG:httpcore.connection:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000016381C2DE50>
+DEBUG:httpcore.connection:start_tls.started ssl_context=<ssl.SSLContext object at 0x0000016381BB8040> server_hostname='api.openai.com' timeout=None
+DEBUG:httpcore.connection:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000016381C2DE20>
+DEBUG:httpcore.http11:send_request_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_headers.complete
+DEBUG:httpcore.http11:send_request_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_body.complete
+DEBUG:httpcore.http11:receive_response_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 01 Aug 2024 16:05:48 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-mz1a8rvtmpafscx1uxmuflg6'), (b'openai-processing-ms', b'2532'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=15552000; includeSubDomains; preload'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'10000000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'9995904'), (b'x-ratelimit-reset-requests', b'6ms'), (b'x-ratelimit-reset-tokens', b'24ms'), (b'x-request-id', b'req_45e38a94cbca1f606b322ca77d09d016'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=_hFjvFtguyPQVkyr1PnerxvLydWDWhoOiQz36dyY45I-1722528348-1.0.1.1-wmrTXg6rdObdhwU7ijagqu67RMW2v12OFCJZxUxdMjdDMCDEcjz4PSeJYXCnr1NggXuhPcxkhNzile7kzMBn.A; path=/; expires=Thu, 01-Aug-24 16:35:48 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=WTdBQ9mmVI8sKtXITgamlTugOp8_gmV2FhTSa_N12wM-1722528348490-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8ac712503c5c309d-ICN'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+DEBUG:httpcore.http11:receive_response_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_body.complete
+DEBUG:httpcore.http11:response_closed.started
+DEBUG:httpcore.http11:response_closed.complete
+DEBUG:openai._base_client:HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 01 Aug 2024 16:05:48 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-mz1a8rvtmpafscx1uxmuflg6'), ('openai-processing-ms', '2532'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=15552000; includeSubDomains; preload'), ('x-ratelimit-limit-requests', '10000'), ('x-ratelimit-limit-tokens', '10000000'), ('x-ratelimit-remaining-requests', '9999'), ('x-ratelimit-remaining-tokens', '9995904'), ('x-ratelimit-reset-requests', '6ms'), ('x-ratelimit-reset-tokens', '24ms'), ('x-request-id', 'req_45e38a94cbca1f606b322ca77d09d016'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=_hFjvFtguyPQVkyr1PnerxvLydWDWhoOiQz36dyY45I-1722528348-1.0.1.1-wmrTXg6rdObdhwU7ijagqu67RMW2v12OFCJZxUxdMjdDMCDEcjz4PSeJYXCnr1NggXuhPcxkhNzile7kzMBn.A; path=/; expires=Thu, 01-Aug-24 16:35:48 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=WTdBQ9mmVI8sKtXITgamlTugOp8_gmV2FhTSa_N12wM-1722528348490-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '8ac712503c5c309d-ICN'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+DEBUG:openai._base_client:request_id: req_45e38a94cbca1f606b322ca77d09d016
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 01:05:48] "POST /process_speech HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 01:06:18] "POST /request_input HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+DEBUG:httpcore.connection:close.started
+DEBUG:httpcore.connection:close.complete
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\twillio_test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\twillio_test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\twillio_test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://10.50.1.191:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 07:51:57] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 07:51:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 07:52:01] "GET /voice HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 07:53:23] "POST /voice HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://10.50.1.191:80
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 07:57:58] "POST /voice HTTP/1.1" 200 -
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): bfc3fd6827b94a4ea8d56f9805a44cae.us-central1.gcp.cloud.es.io:443
+DEBUG:urllib3.connectionpool:https://bfc3fd6827b94a4ea8d56f9805a44cae.us-central1.gcp.cloud.es.io:443 "GET / HTTP/11" 200 0
+INFO:elastic_transport.transport:GET https://bfc3fd6827b94a4ea8d56f9805a44cae.us-central1.gcp.cloud.es.io:443/ [status:200 duration:0.716s]
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:httpx:load_ssl_context verify=True cert=None trust_env=True http2=False
+DEBUG:httpx:load_verify_locations cafile='C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\.venv\\lib\\site-packages\\certifi\\cacert.pem'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): openaipublic.blob.core.windows.net:443
+DEBUG:urllib3.connectionpool:https://openaipublic.blob.core.windows.net:443 "GET /encodings/cl100k_base.tiktoken HTTP/11" 200 1681126
+DEBUG:openai._base_client:Request options: {'method': 'post', 'url': '/embeddings', 'files': None, 'post_parser': <function Embeddings.create.<locals>.parser at 0x0000027E7321F430>, 'json_data': {'input': [[13094, 17164, 223, 18359, 55000, 35495, 30027, 114, 32179, 36811, 13]], 'model': 'text-embedding-ada-002', 'encoding_format': 'base64'}}
+DEBUG:openai._base_client:Sending HTTP Request: POST https://api.openai.com/v1/embeddings
+DEBUG:httpcore.connection:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+DEBUG:httpcore.connection:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000027E73F92F70>
+DEBUG:httpcore.connection:start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027E7320C7C0> server_hostname='api.openai.com' timeout=None
+DEBUG:httpcore.connection:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000027E73F92FA0>
+DEBUG:httpcore.http11:send_request_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_headers.complete
+DEBUG:httpcore.http11:send_request_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_body.complete
+DEBUG:httpcore.http11:receive_response_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 01 Aug 2024 22:58:16 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-allow-origin', b'*'), (b'openai-model', b'text-embedding-ada-002'), (b'openai-organization', b'user-mz1a8rvtmpafscx1uxmuflg6'), (b'openai-processing-ms', b'20'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=15552000; includeSubDomains; preload'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'5000000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'4999988'), (b'x-ratelimit-reset-requests', b'6ms'), (b'x-ratelimit-reset-tokens', b'0s'), (b'x-request-id', b'req_6962f2fa9a9848054bd56ef4db2e1b36'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=H8hDnMU2fkN7C_qHiAervhfHVDpJrd8GG3n7.FQeaSE-1722553096-1.0.1.1-nD.pG819sK4ZueV7_ntSDgvfykHFcDotJHj0vp8tXClyQoOl3he9dTetjOlUwRVX1.FViIfxRDL6G2OUFnZ1zA; path=/; expires=Thu, 01-Aug-24 23:28:16 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=4NEr1uNVkdR7K_GEj3jjWnpfIyN0eMuUvLJddyvwXcc-1722553096485-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8ac96e938af5aa6c-ICN'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+DEBUG:httpcore.http11:receive_response_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_body.complete
+DEBUG:httpcore.http11:response_closed.started
+DEBUG:httpcore.http11:response_closed.complete
+DEBUG:openai._base_client:HTTP Response: POST https://api.openai.com/v1/embeddings "200 OK" Headers([('date', 'Thu, 01 Aug 2024 22:58:16 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('access-control-allow-origin', '*'), ('openai-model', 'text-embedding-ada-002'), ('openai-organization', 'user-mz1a8rvtmpafscx1uxmuflg6'), ('openai-processing-ms', '20'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=15552000; includeSubDomains; preload'), ('x-ratelimit-limit-requests', '10000'), ('x-ratelimit-limit-tokens', '5000000'), ('x-ratelimit-remaining-requests', '9999'), ('x-ratelimit-remaining-tokens', '4999988'), ('x-ratelimit-reset-requests', '6ms'), ('x-ratelimit-reset-tokens', '0s'), ('x-request-id', 'req_6962f2fa9a9848054bd56ef4db2e1b36'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=H8hDnMU2fkN7C_qHiAervhfHVDpJrd8GG3n7.FQeaSE-1722553096-1.0.1.1-nD.pG819sK4ZueV7_ntSDgvfykHFcDotJHj0vp8tXClyQoOl3he9dTetjOlUwRVX1.FViIfxRDL6G2OUFnZ1zA; path=/; expires=Thu, 01-Aug-24 23:28:16 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=4NEr1uNVkdR7K_GEj3jjWnpfIyN0eMuUvLJddyvwXcc-1722553096485-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '8ac96e938af5aa6c-ICN'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+DEBUG:openai._base_client:request_id: req_6962f2fa9a9848054bd56ef4db2e1b36
+DEBUG:urllib3.connectionpool:https://bfc3fd6827b94a4ea8d56f9805a44cae.us-central1.gcp.cloud.es.io:443 "POST /helloworld9/_search?_source_includes=metadata,text HTTP/11" 200 0
+INFO:elastic_transport.transport:POST https://bfc3fd6827b94a4ea8d56f9805a44cae.us-central1.gcp.cloud.es.io:443/helloworld9/_search?_source_includes=metadata,text [status:200 duration:0.226s]
+DEBUG:openai._base_client:Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': "\n    ´ç½ÅÀº À¯´ÉÇÑ AI ¾î½Ã½ºÅÏÆ®ÀÔ´Ï´Ù. ´ÙÀ½ °ü·Ã ¹®¼­¸¦ ÂüÁ¶ÇÏ¿©, ´ëÈ­¿¡ ´ëÇÑ ÀûÀýÇÑ ´äº¯À» »ý¼ºÇØÁÖ¼¼¿ä.\n\n°ü·Ã ¹®¼­: \n    ÆÄ°ß±Ù·ÎÀÚ·Î ±Ù¹«ÁßÀÔ´Ï´Ù. À°¾Æ¹®Á¦·Î ÈÞÁ÷À» ÇÏ°í ½ÍÀºµ¥ Á¤±ÔÁ÷ÀÌ ¾Æ´Ï¾îµµ À°¾ÆÈÞÁ÷À» »ç¿ëÇÒ ¼ö ÀÖ³ª¿ä? Áú¹®: ÆÄ°ß±Ù·ÎÀÚ·Î ±Ù¹«ÁßÀÔ´Ï´Ù. À°¾Æ¹®Á¦·Î ÈÞÁ÷À» ÇÏ°í ½ÍÀºµ¥ Á¤±ÔÁ÷ÀÌ ¾Æ´Ï¾îµµ À°¾ÆÈÞÁ÷À» »ç¿ëÇÒ ¼ö ÀÖ³ª¿ä?\n´äº¯: »ç¾÷ÁÖ´Â ±Ù·ÎÀÚ°¡ ¸¸ 8¼¼ ÀÌÇÏ ¶Ç´Â ÃÊµîÇÐ±³ 2ÇÐ³â ÀÌÇÏÀÇ ÀÚ³à(ÀÔ¾çÇÑ ÀÚ³à¸¦ Æ÷ÇÔ)¸¦ ¾çÀ°ÇÏ±â À§ÇØ À°¾ÆÈÞÁ÷ ¶Ç´Â À°¾Æ±â ±Ù·Î½Ã°£ ´ÜÃàÀ» ½ÅÃ»ÇÏ´Â °æ¿ì¿¡ Æ¯º°ÇÑ »çÁ¤ÀÌ ¾ø´Â ÇÑ 1³â ÀÌ³»ÀÇ ±â°£ µ¿¾È ÀÌ¸¦ Çã¿ëÇØ¾ß ÇÕ´Ï´Ù. ±Ù·ÎÀÚ°¡ ¾Æ´Ñ ÀÓ¿øÀÌ ÅðÁ÷¿¬±Ý¿¡ °¡ÀÔÇÒ ¼ö ÀÖ´ÂÁö Ä«Å×°í¸®: ³ëµ¿ - ÀÓ±Ý ¹× ÅðÁ÷±Ý\nÁú¹®: Àú´Â È¸»çÀÇ ÀÓ¿øÀÔ´Ï´Ù. ±×·±µ¥ Àúµµ ¾ÈÁ¤ÀûÀÎ ³ëÈÄº¸ÀåÀ» À§ÇÏ¿© È¸»çÀÇ ÅðÁ÷¿¬±ÝÁ¦µµ¿¡ °¡ÀÔÀ» ÇÏ°í ½Í½À´Ï´Ù. ÀÌ°ÍÀÌ °¡´ÉÇÒ±î¿ä? Ãë¾÷°¡´É±â°£ÀÌ Âª°Ô ³²¾Æ Ãë¾÷ÀÌ ¾î·Á¿î ³ëµ¿ÀÚ ±¸Á÷È°µ¿ Áö¿ø ÇÑ±¹¿¡ Ã¼·ù ÁßÀÎ ÇÊ¸®ÇÉ ±¹Àû E-9 ºñÀÚ ¼ÒÁöÀÚ°¡ Ãë¾÷ ¾î·Á¿òÀ¸·Î ½°ÅÍ¿¡ ÀÔ¼ÒÇÏ°í ±¸Á÷ »ó´ãÀ» ¹Þ¾Ò½À´Ï´Ù. ´Ù´Ï´ø È¸»ç¿¡¼­ ÀÏÀÌ ¾ø¾îÁ® »ç¾÷ÀåÀ» º¯°æÇÏ°í ÀÌÁ÷ ÁßÀÌ¾úÀ¸³ª ½°ÅÍ ÀÚ¸®°¡ ¾ø¾î °í½Ã¿ø¿¡¼­ È¥ÀÚ ¸Ó¹°¸ç ±¸Á÷ ÁßÀÌ¾ú½À´Ï´Ù. ¸éÁ¢À» °ÅÃÄµµ ÀÏÇÒ ¼ö ÀÖ´Â ±â°£ÀÌ Âª´Ù´Â ÀÌÀ¯·Î Ã¤¿ëÀ» °ÅÀý´çÇÏ°í Ãâ±¹ À§±â¿¡ Ã³ÇØ ³ëµ¿ºÎ ¾Ë¼± È¸»ç¸¦ ¹æ¹®ÇÏ¿© µµ¿òÀ» ¿äÃ»Çß½À´Ï´Ù. ¸¶Áö¸· ±¸Á÷ ³¯¿¡ ³²¾çÁÖ È¸»ç¿¡¼­ Ãë¾÷ÀÌ È®Á¤µÇ¾î ÀÏÀ» ½ÃÀÛÇÏ°í È¸»ç ±â¼÷»ç·Î ÀÌµ¿Çß½À´Ï´Ù. ÇöÀç´Â È¸»ç¿¡ Àß ÀûÀÀÇÏ¿© ÀÏÇÏ°í ÀÖÀ¸¸ç, ³»³â¿¡µµ ¼º½Ç±Ù·ÎÀÚ·Î ÀÏÇÏ°í ½Í¾îÇÕ´Ï´Ù. ¿Ü±¹ÀÎ ±Ù·ÎÀÚµéÀº °í¿ëÁö¿ø¼¾ÅÍ¸¦ ÅëÇØ ±¸Á÷ µµ¿òÀ» ¹ÞÀ» ¼ö ÀÖ½À´Ï´Ù.\n    \n    ´ëÈ­ ±â·Ï:\n[{'role': 'user', 'content': 'ÀÌÁ÷À» ÇÏ°í ½Í¾î¿ä.'}]\n\n    AI:\n    ", 'role': 'user'}], 'model': 'gpt-3.5-turbo-0125', 'logprobs': False, 'max_tokens': 4096, 'n': 1, 'stream': False, 'temperature': 0.0}}
+DEBUG:openai._base_client:Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+DEBUG:httpcore.connection:connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+DEBUG:httpcore.connection:connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000027E738B7E20>
+DEBUG:httpcore.connection:start_tls.started ssl_context=<ssl.SSLContext object at 0x0000027E7320C340> server_hostname='api.openai.com' timeout=None
+DEBUG:httpcore.connection:start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000027E738B7E50>
+DEBUG:httpcore.http11:send_request_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_headers.complete
+DEBUG:httpcore.http11:send_request_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:send_request_body.complete
+DEBUG:httpcore.http11:receive_response_headers.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 01 Aug 2024 22:58:27 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'openai-organization', b'user-mz1a8rvtmpafscx1uxmuflg6'), (b'openai-processing-ms', b'10577'), (b'openai-version', b'2020-10-01'), (b'strict-transport-security', b'max-age=15552000; includeSubDomains; preload'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'10000000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'9995904'), (b'x-ratelimit-reset-requests', b'6ms'), (b'x-ratelimit-reset-tokens', b'24ms'), (b'x-request-id', b'req_b22ab23aa44a30ae40f63c1ac66e427e'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=Uo852XSGG.OkLd1eKiA6LElHg0uPdoGD07SUrrC8ybc-1722553107-1.0.1.1-EexnwtlB_GMTYmR75vlMcryEoA_ThZn49vgQ4qDSoXrN4bytICAhfZbortA8kZYQaW_lFPPFIljc1CTGqi6t8w; path=/; expires=Thu, 01-Aug-24 23:28:27 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=Ums15vr1l3gtkVMxJUEurXqqllEUvJMCvZ0UKtiSIzE-1722553107778-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8ac96e96f954aa84-ICN'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+DEBUG:httpcore.http11:receive_response_body.started request=<Request [b'POST']>
+DEBUG:httpcore.http11:receive_response_body.complete
+DEBUG:httpcore.http11:response_closed.started
+DEBUG:httpcore.http11:response_closed.complete
+DEBUG:openai._base_client:HTTP Response: POST https://api.openai.com/v1/chat/completions "200 OK" Headers([('date', 'Thu, 01 Aug 2024 22:58:27 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('openai-organization', 'user-mz1a8rvtmpafscx1uxmuflg6'), ('openai-processing-ms', '10577'), ('openai-version', '2020-10-01'), ('strict-transport-security', 'max-age=15552000; includeSubDomains; preload'), ('x-ratelimit-limit-requests', '10000'), ('x-ratelimit-limit-tokens', '10000000'), ('x-ratelimit-remaining-requests', '9999'), ('x-ratelimit-remaining-tokens', '9995904'), ('x-ratelimit-reset-requests', '6ms'), ('x-ratelimit-reset-tokens', '24ms'), ('x-request-id', 'req_b22ab23aa44a30ae40f63c1ac66e427e'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=Uo852XSGG.OkLd1eKiA6LElHg0uPdoGD07SUrrC8ybc-1722553107-1.0.1.1-EexnwtlB_GMTYmR75vlMcryEoA_ThZn49vgQ4qDSoXrN4bytICAhfZbortA8kZYQaW_lFPPFIljc1CTGqi6t8w; path=/; expires=Thu, 01-Aug-24 23:28:27 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=Ums15vr1l3gtkVMxJUEurXqqllEUvJMCvZ0UKtiSIzE-1722553107778-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '8ac96e96f954aa84-ICN'), ('content-encoding', 'gzip'), ('alt-svc', 'h3=":443"; ma=86400')])
+DEBUG:openai._base_client:request_id: req_b22ab23aa44a30ae40f63c1ac66e427e
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2024 07:58:27] "POST /process_speech HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ohmyh\\OneDrive\\¹ÙÅÁ È­¸é\\GitHub\\HelloWorld_data\\twillio\\main.py', reloading
+DEBUG:httpcore.connection:close.started
+DEBUG:httpcore.connection:close.complete
+DEBUG:httpcore.connection:close.started
+DEBUG:httpcore.connection:close.complete
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-204-369
